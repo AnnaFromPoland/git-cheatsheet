@@ -1,28 +1,28 @@
 # MOST USEFUL KNOWLEDGE NUGGETS ABOUT GIT & GITHUB
 
 ## TOP BEST GIT TOOLS & LEARNING RESOURCES
-[git cheatsheet dot org](https://gitcheatsheet.org/how-to) - a tonne of most useful easy as a piece of cake explained "how to" do x code snippets
-[git essentials](https://www.udemy.com/course/git-and-github-tutorial) - best git & github tutorial in english by kalob taulien of [kalob.io](https://kalob.io) and [gitforeverybody.com](https://gitforeverybody.com)
-[git book](https://books.goalkicker.com/GitBook) - superbly comprehensive, in depth and advanced git bible
-[advanced git kit](https://www.git-tower.com/learn/git/advanced-git-kit) - a set of advanced git helpers (tools) by the creator of [git tower](https://www.git-tower.com) 
-[learn git branching](https://learngitbranching.js.org) - online visualisation tool for learning branching in git
-[gitignore.io](https://gitignore.io) - tool for generating gitignore files
-[dillinger.io](https://dillinger.io) - WYSIWYG editing tool for markdown files
-[markdown explanation](https://daringfireball.net/projects/markdown) - a robust explanation of markdown by john gruber
+[git cheatsheet dot org](https://gitcheatsheet.org/how-to) - a tonne of most useful easy as a piece of cake explained "how to" do x code snippets  
+[git essentials](https://www.udemy.com/course/git-and-github-tutorial) - best git & github tutorial in english by kalob taulien of [kalob.io](https://kalob.io) and [gitforeverybody.com](https://gitforeverybody.com)  
+[git book](https://books.goalkicker.com/GitBook) - superbly comprehensive, in depth and advanced git bible  
+[advanced git kit](https://www.git-tower.com/learn/git/advanced-git-kit) - a set of advanced git helpers (tools) by the creator of [git tower](https://www.git-tower.com)  
+[learn git branching](https://learngitbranching.js.org) - online visualisation tool for learning branching in git  
+[gitignore.io](https://gitignore.io) - tool for generating gitignore files  
+[dillinger.io](https://dillinger.io) - WYSIWYG editing tool for markdown files  
+[markdown explanation](https://daringfireball.net/projects/markdown) - a robust explanation of markdown by john gruber  
 [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) - a cheatsheet by [markdown guide](https://www.markdownguide.org) listing markdown edit options
 
 ## WINDOWS & MAC TERMINAL COMMANDS USEFUL FOR GIT BASH
-ls - lists directory files
-ls -la - lists directory files
-ls -al - lists directory incl. hidden files
-clear - clears terminal
-pwd - lists current directory path (tells you where you are with terminal)
-cd - change directory to home
-cd dir - change directory to directory
-mkdir dir - create directory named directory
-rm file - remove file
-rm -r dir - remove directory
-touch - creates a new file in mac
+ls - lists directory files  
+ls -la - lists directory files  
+ls -al - lists directory incl. hidden files  
+clear - clears terminal  
+pwd - lists current directory path (tells you where you are with terminal)  
+cd - change directory to home  
+cd dir - change directory to directory  
+mkdir dir - create directory named directory  
+rm file - remove file  
+rm -r dir - remove directory  
+touch - creates a new file in mac  
 echo - creates a new file in windows
 
 ## GENERAL GIT SIDE NOTES & MENTAL NOTES TO SELF
