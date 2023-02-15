@@ -1,4 +1,4 @@
-# MOST USEFUL KNOWLEDGE NUGGETS ABOUT GIT & GITHUB
+# MOST USEFUL KNOWLEDGE NUGGETS ON GIT & GITHUB
 
 ## TOP BEST GIT TOOLS & LEARNING RESOURCES
 [git cheatsheet dot org](https://gitcheatsheet.org/how-to) - a tonne of most useful easy as a piece of cake explained "how to" do x code snippets  
