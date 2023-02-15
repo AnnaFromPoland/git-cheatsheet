@@ -62,7 +62,7 @@ echo - creates a new file in windows
 
 / set global text editor to subline text
 
-    git config --global core.editor "'C:/Program Files (x86)/sublime text 3/subl.exe' -w"
+    git config --global core.editor "'C:\Program Files\Sublime Text\sublime_text.exe' -w"
 
 / set up github user & email
 
